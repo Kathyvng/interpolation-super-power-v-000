@@ -1,4 +1,4 @@
-display_rainbow(R= "red", O= "orange", Y= "yellow", G= "green", B= "blue", I= "indigo", V= "violet")
+def display_rainbow(R= "red", O= "orange", Y= "yellow", G= "green", B= "blue", I= "indigo", V= "violet")
   puts "#{R}"
   puts "#{O}"
   puts "#{Y}"
@@ -6,3 +6,4 @@ display_rainbow(R= "red", O= "orange", Y= "yellow", G= "green", B= "blue", I= "i
   puts "#{B}"
   puts "#{I}"
   puts "#{V}"
+end
