@@ -1,4 +1,4 @@
-colors=["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+display_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
   puts "#{colors[0]}"
   puts "#{colors[1]}"
   puts "#{colors[2]}"
