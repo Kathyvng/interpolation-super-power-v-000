@@ -1,9 +1,8 @@
 display_rainbow("R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet")
-colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
-  puts "#{colors[0]}"
-  puts "#{colors[1]}"
-  puts "#{colors[2]}"
-  puts "#{colors[3]}"
-  puts "#{colors[4]}"
-  puts "#{colors[5]}"
-  puts "#{colors[6]}"
+  puts "#{display_rainbow[R]}"
+  puts "#{display_rainbow[O]}"
+  puts "#{display_rainbow[Y]}"
+  puts "#{display_rainbow[G]}"
+  puts "#{display_rainbow[B]}"
+  puts "#{display_rainbow[I]}"
+  puts "#{display_rainbow[V]}"
